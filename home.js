@@ -1,4 +1,5 @@
 import wixWindowFrontend from 'wix-window-frontend';
+import wixLocation from 'wix-loaction'
 
 $w.onReady(function () {
 	
